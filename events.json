@@ -1,0 +1,16 @@
+[
+    {
+      "_id": {"$oid": "661d1f5a9c8d4a3d45f7a1b2"},
+      "title": "Tech Summit 2025",
+      "description": "Annual technology conference",
+      "date": {"$date": "2025-09-15T09:00:00Z"},
+      "location": "San Francisco Convention Center",
+      "capacity": 1000,
+      "creator": {"$oid": "661d1f5a9c8d4a3d45f7a1b3"},
+      "attendees": [
+        {"$oid": "661d1f5a9c8d4a3d45f7a1b4"},
+        {"$oid": "661d1f5a9c8d4a3d45f7a1b5"}
+      ]
+    }
+  ]
+  

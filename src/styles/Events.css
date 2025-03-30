@@ -1,0 +1,96 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+  }
+  
+  /* Events Page Container */
+  .events-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .events-page h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Event Grid */
+  .event-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .event-grid p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  /* Error Container */
+  .error-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffe6e6;
+    border: solid 1px #ffcccc;
+    border-radius: 8px;
+  }
+  
+  .error-container h2 {
+    color: #d9534f; /* Error title color */
+  }
+  
+  .error-container p {
+    font-size: 1.2rem;
+  }
+  
+  .error-container button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #d9534f; /* Button color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .error-container button:hover {
+    background-color: #c9302c; /* Hover effect */
+  }
+  
+  /* Loading Message */
+  .events-page div {
+    text-align: center;
+  }
+  
+  /* Event Card Styles (Assuming EventCard Component) */
+  .event-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: rgba(0,0,0,0.1) 0px 4px 12px; /* Subtle shadow for cards */
+  }
+  
+  .event-card img {
+      width:auto; height:auto
+  }
+  .event-card img{
+  width:auto;height:auto;}
+  .event-card img{
+  width:auto;height:auto;}
+  .event-card img{
+  width:auto;height:auto;}
+  .event-card img{
+  width:auto;height:auto;}
+  .event-card img{
+  width:auto;height:auto;}
+  .event-card img{
+  width:auto;height:auto;}
+  .event-card img{
+  width:auto;height:auto;}
+  

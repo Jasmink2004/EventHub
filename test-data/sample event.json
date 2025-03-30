@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Tech Conference 2025",
+      "description": "Annual technology conference focusing on AI and cybersecurity.",
+      "date": "2025-09-15",
+      "time": "09:00",
+      "location": "Convention Center",
+      "capacity": 500
+    },
+    {
+      "title": "Innovation Summit 2026",
+      "description": "Gathering of innovators to discuss future tech trends.",
+      "date": "2026-03-20",
+      "time": "10:00",
+      "location": "Tech Park",
+      "capacity": 750
+    }
+  ]
+  
